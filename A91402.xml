@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Pym, his speech. On Tuesday the 8th of February, to the Lords, at a conferrence of both Houses, concerning the petition of the knights and gentry of the county of Kent. Delivered to the Lords, February the ninth, Anno Domini, 1642.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91402</idno>
+            <idno type="STC">Wing P4292</idno>
+            <idno type="STC">Thomason E200_26</idno>
+            <idno type="STC">ESTC R11631</idno>
+            <idno type="EEBO-CITATION">99859090</idno>
+            <idno type="PROQUEST">99859090</idno>
+            <idno type="VID">157567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157567)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Pym, his speech. On Tuesday the 8th of February, to the Lords, at a conferrence of both Houses, concerning the petition of the knights and gentry of the county of Kent. Delivered to the Lords, February the ninth, Anno Domini, 1642.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157567:1"/>
+            <pb facs="tcp:157567:1" rendition="simple:additions"/>
+            <p> M<hi rend="sup">r.</hi> PYM, HIS SPEECH.</p>
+            <p>On Tueſday the 8th of February, To the LORDS, at a Conferrence of both Houſes, concerning the Petition of the Knights and Gentry of the County of <hi>Kent.</hi>
+            </p>
+            <p>Delivered to the Lords, <hi>February</hi> the Ninth, <hi>Anno Domini,</hi> 1642.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Hammond,</hi> 1641.</p>
+            <pb facs="tcp:157567:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157567:2"/>
+            <head>M<hi rend="sup">r.</hi> PYM, HIS Speech to the Lords, at a Con<g ref="char:EOLhyphen"/>ferrence of both Houſes, Concerning the Petition of the Knights and Gentry of the County of <hi>Kent,</hi> on Tueſday the 8. of <hi>February,</hi> delivered to the Lords: <hi>February</hi> 9. 1641.</head>
+            <opener>
+               <salute>My LORDS,</salute>
+            </opener>
+            <p>THE Bill which by both Houſes is paſſed for the taking away the Votes of the Prelates in this Honourable Houſe, and diſſabling them from temporall Employment; and for the ſetting the King<g ref="char:EOLhyphen"/>dome into a Poſture of War, for its defence, hath occaſioned this preſent Petition of the Knights and Gentry of the County of <hi>Kent;</hi> In which is fully expreſſed their great ioy and thankfulneſſe, for the happy Congruity, and Concurrence between both Houſes, in paſſing the ſaid Bills; deſiring alſo therein this Ho<g ref="char:EOLhyphen"/>norable Houſe to goe on with the Houſe of
+<pb facs="tcp:157567:3"/> Commons to a through reformation in Reli<g ref="char:EOLhyphen"/>gion, according to the Word of God, To di<g ref="char:EOLhyphen"/>ſpatch aide for <hi>Ireland;</hi> To expedite procee<g ref="char:EOLhyphen"/>dings againſt deſinquents, to vindicate Parlia<g ref="char:EOLhyphen"/>ment Priviledges, to diſcover, remove and pu<g ref="char:EOLhyphen"/>niſh evill Counſellors<hi>:</hi> to deprive the Popiſh Lords of their Votes; to diſarme and ſearch out Papiſts, and put them into ſafe cuſtody, to ſuppreſſe Maſſe both in publike and private; To caſt out ſcandalous Miniſter, plant pain<g ref="char:EOLhyphen"/>full Preachers every where, And diſcover who are Church Papiſts, as well as knowne Recu<g ref="char:EOLhyphen"/>ſants.</p>
+            <p>
+               <hi>MY LORDS,</hi>
+            </p>
+            <p>This Briefe Catalogue of all the Buſineſſe we have in agitation for the good government, and ſetling peace and tranquility both in Church and Common-wealth, I deſire un<g ref="char:EOLhyphen"/>der favour to ſpeake ſomewhat to every par<g ref="char:EOLhyphen"/>ticular, ſhewing the great neceſſity to bring to a happy Concluſion our endeavors and intentions concerning the ſame.</p>
+            <p>
+               <hi>MY LORDS,</hi>
+            </p>
+            <p n="1">1 Religion is the firſt thing is deſired to be ſetled and eſtabliſhed in ſuch a manner and forme, as may agree with the pure and Sacred Word of God; there hath been many orders made by this preſent Parliament, whereby ma<g ref="char:EOLhyphen"/>ny corruptions in the Miniſtery and diſpenſa<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:157567:3"/> of the Word and Sacraments, are in ſome good meaſure purged, Many ſcandalous and vitious Teachers, in their lives and converſati<g ref="char:EOLhyphen"/>ons, removed; and many painfull and Learned men reſtored againe to their offices in the Mi<g ref="char:EOLhyphen"/>niſtery, whereby the Word of God hath been purely taught ſince the ſitting of this happy Parliament, wee have now by this Bill regula<g ref="char:EOLhyphen"/>ted the chiefeſt of the Clergie; But yet is there not a through Reformation; the proceeding of the Parliament, therein having been ſo much oppoſed by the Votes of Biſhops and Popiſh Lords, which inconveniency by the bleſſing and good Providence of God, and wiſdome of this great and high Court, is for future time, pre<g ref="char:EOLhyphen"/>vented by this Bill, and proceeded againſt, as touching the Prelates oppoſition; The evills that have happened for want of through Re<g ref="char:EOLhyphen"/>formation, is too apparant, men give them<g ref="char:EOLhyphen"/>ſelves to all manner of vice and uncleanneſſe; practiſing nor profeſſing rightly, but looſely and profanely any Religion; Multitudes have forſaken the Proteſtant, and ioyned themſelves to the Romiſh Religion, Many have forſaken our Church, &amp; become Separatiſts, Browniſts and Annabaptiſts; yet this whole ſtate ſeems as it were compoſed of naught elſe but of di<g ref="char:EOLhyphen"/>vers factions, ſects &amp; ſchiſmes, and all through want of a full Reformation of Religion, and ſetled eſtabliſhment thereof, whereby God is highly diſhonoured, the Goſpel ſhaddowed
+<pb facs="tcp:157567:4"/> and eclipſed, publike profanation encreaſeth, Diviſion and diſtractions by this means raiſed in the State, there being ſo many ſeverall opi<g ref="char:EOLhyphen"/>nions, that it is unpoſſible to pleaſe all, or know how to diſcover diſaffected to the True Reli<g ref="char:EOLhyphen"/>gion, till the ſame be really eſtabliſhed.</p>
+            <p n="2">2. <hi>Ireland</hi> that diſtreſſed Kingdom lies gaſ<g ref="char:EOLhyphen"/>ping, even as it were ready to yeeld up it ſelfe into the hands and power of mercileſſe and Cruell Miſcreants, Rebels, and Traitors to their King and Countrey, enemies to God and his true Religion; It is high time to put to our helping hand for their aid and reliefe: I beſeech you, my Lords, let us have a fellow fee<g ref="char:EOLhyphen"/>ling of our brethrens miſeries, let us bezealous for the cauſe of God and true Religion; let not the bloud of the ſlaine bee a ſtumbling-blocke to our peace and ſafety, being united brethren under one God, in one religion, faith<g ref="char:EOLhyphen"/>full ſubiects under one Soveraigne, if while it is time we goe not out to their defence, to fight the battels of the Lord, and his annointed a<g ref="char:EOLhyphen"/>gainſt their wicked and rebellious enemies.</p>
+            <p n="3">3. To proceed to the puniſhment of delin<g ref="char:EOLhyphen"/>quents; My Lords, ſo long as ill inſtruments remain unpuniſhed, we cannot expect either peace or ſafety, they ſtill working and endea<g ref="char:EOLhyphen"/>vouring their owne liberties and inlargement to the deſtruction and confuſion of all that la<g ref="char:EOLhyphen"/>bour to bring them to deſerved puniſhment for their evill and notorious crimes, be it King
+<pb facs="tcp:157567:4"/> or Parliament: wherefore i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is of neceſſity to expedite our proceedings againſt them, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt protraction of time in the ſame, produce farre more evils and troubles in this Common<g ref="char:EOLhyphen"/>wealth then hitherto.</p>
+            <p n="4">4. To vindicate Parliament priviledges, my Lords, if the members of the Parliament may not freely vote, freely debate and diſpute con<g ref="char:EOLhyphen"/>cerning ſuch things as are by them in agitati<g ref="char:EOLhyphen"/>on for the ſafety, peace and proſperity of true Religion, his ſacred Maieſtiy and his King<g ref="char:EOLhyphen"/>domes, without reprehenſion, accuſation or impeachment for the ſame, then will Parlia<g ref="char:EOLhyphen"/>ments prove uſeleſſe and of no validity in this Kingdome, which have been ever eſteemed the beſt and ſafeſt way of government that ever was, or could be for the ſame.</p>
+            <p n="5">5. To remove evill Councellors: So long as ſuch remaine about the Court, wee cannot expect any good iſſue of our proceedings in the great affaires of this Kingdome.</p>
+            <p n="6">6. The daily examples of the evill practi<g ref="char:EOLhyphen"/>ces of Papiſts and Recuſants to diſturbe our peace, I hope is ſufficient to make us carefull and willing to prevent the ſame in time by diſ<g ref="char:EOLhyphen"/>arming them, and putting the Lawes in execu<g ref="char:EOLhyphen"/>tion againſt obſtinate and wilfull Recuſants, againſt Prieſts and Ieſuits that ſhall be found any where lurking in this Kingdome, ſeducing his Maieſties good ſubiects in their Religion, and alienating their hearts and affections from
+<pb facs="tcp:157567:5"/> due obedience to his Maieſty, and the Lawes and Ordinances of the Kingdome, made and enacted by the whole State of the Kingdome, and confirmed by his moſt excellent Maieſty.</p>
+            <p n="7">7. To remove Popiſh Lords from ſitting, or having any voyce in this honourable Houſe, to ſuppreſſe Maſſe in publicke and private, to caſt out ſcandalous Miniſters out of the Church, and to place good ones in their roomes, to diſcover who are Church Papiſts, and knowne Recuſants. The neceſſity of all which is grounded upon the ſame reaſons as are the other particulars. Theſe being remo<g ref="char:EOLhyphen"/>ved and avoyded, the rough way of our procee<g ref="char:EOLhyphen"/>dings in the great affaires of the State, will bee made plaine. Through theſe difficulties we muſt paſſe unanimouſly with one conſent, in the name and feare of God, in obedience and dutifull affection to our gracious Sove<g ref="char:EOLhyphen"/>raigne, and in faithfull integrity to the peace and ſafety of our Countrey, of whom wee are intruſted to counſell, determine, and conclude of all things that may tend to the e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erlaſting peace and tranquility of both Church and State<hi>:</hi> Which that we may doe, God grant us unity of hearts, and magnanimity and courage of minde, to bring to a happy concluſion all things we have in hand for the quiet and peace of King and People.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
